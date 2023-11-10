@@ -1,26 +1,30 @@
-*{
-    margin:0;
-}
+
 body {
     background:linear-gradient(#EF7F74,#F6D694);
     
 }
 
+.ok{
+
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+   
+}
+
+
+.ok{
+    height:900px;
+}
 
 .thumb{
-    background:black;
-    border:5px solid red;
-    position: relative;
     display:inline;
-  
-    margin-left:1900px;
-    top:-300px;
     border-radius: 7%;
+    margin-bottom: 300px;
+    border:5px solid red;
 
 }
-.ok{
-    height:800px;
-}
+
 #product{
 
     width:500px;
@@ -28,8 +32,8 @@ body {
     justify-content: center;
     border:10px solid white;
     background: #a8dadc;
-    margin:110px auto 0px;
     border-radius: 15px;
+    margin-bottom: 300px;
 
 }
 .quotes{
