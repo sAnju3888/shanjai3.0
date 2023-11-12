@@ -20,7 +20,7 @@ body{
 .container{
     display:flex;
     width:856px;
-    height:350px;
+    height:380px;
     border:8px solid blue;
     justify-content: space-around;
     padding:60px;
