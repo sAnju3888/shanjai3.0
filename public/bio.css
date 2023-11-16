@@ -46,19 +46,7 @@ body{
     height:250px;
 }
 
-.fa-linkedin {
-    background: #007bb5;
-    color: white;
-    
-  }
-
-.fa-github {
-    height:40px;
-    width:50px;
-    border-radius: 60%;
-    background-color: #555;
-    color: white;
-    padding: 12px;
-
-
-  }
+.icons{
+    display: flex;
+    justify-content: space-around;
+}
