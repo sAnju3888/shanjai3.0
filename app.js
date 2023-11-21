@@ -22,3 +22,6 @@ app.get('/project',(req,res)=>{
 app.get('/bio',(req,res)=>{
     res.render('bio');
 });
+app.get('/task',(req,res)=>{
+    res.redirect("https://sanju3888.github.io/hash_tasks/");
+});
